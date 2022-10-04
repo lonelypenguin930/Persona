@@ -38,10 +38,13 @@
     padding: 5 rem;
   }
 
+  h3{
+    padding:3rem;
+  }
   
 
   .blankets {
-    background:url(./images/Scooter.jpg) center;
+    background:url(./Images/Scooter.jpg) center;
     height: 80vh;
   }
 
