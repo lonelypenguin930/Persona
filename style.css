@@ -42,6 +42,12 @@
     padding:3rem;
   }
   
+  h2{
+    padding: 1.5rem;
+  }
+  p{
+    padding: 0.5rem 2rem 0.5rem 2rem;
+  }
 
   .blankets {
     background:url(./Images/Scooter.jpg) center;
@@ -57,5 +63,10 @@
     color:orange;
   }
   
+  .image-center{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+  }
 
   
